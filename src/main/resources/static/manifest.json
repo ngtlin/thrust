@@ -1,0 +1,8 @@
+{
+  "name": "Swiss Climate Challenge",
+  "short_name": "SCC",
+  "start_url": "index.html",
+  "display": "standalone",   
+  "theme_color": "#9acc99",
+  "background_color": "#9acc99"
+}
